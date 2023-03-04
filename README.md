@@ -1,2 +1,16 @@
-# Shopping_Cart
-A complete shopping cart website
+# Shopping Cart
+
+A Shopping Cart website with User and Admin interfaces which manipulate with database and apply CRUD operations on it. The website has full Validation and Authentication processes.
+
+#Tools:
+
+Front-End:
+  - HTML
+  - CSS
+  - Bootstrap
+
+Back-End:
+  - PHP
+  
+Contributors:
+  - Mohamed Adel Elsayed
