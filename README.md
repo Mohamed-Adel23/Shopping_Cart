@@ -11,6 +11,7 @@ Front-End:
 
 Back-End:
   - PHP
+  - MySQL
   
 Contributors:
   - Mohamed Adel Elsayed
